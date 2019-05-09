@@ -6,7 +6,7 @@ use File::Basename;
 $progname = basename($0);
 
 ### Please modify the following variables according to your own system setting ###
-$mesh2vtu = "/specfem3d/utils/Visualization/Paraview/mesh2vtu/mesh2vtu";
+$mesh2vtu = "./mesh2vtu/mesh2vtu";
 $REQLIBS  = "env LD_LIBRARY_PATH=/usr/local/lib/";
 #################################################################################
 
