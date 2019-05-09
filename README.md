@@ -1,6 +1,6 @@
---------------------------------
-readme
---------------------------------
+# this repository is a updated version of original SPECFEM3D repository, for recent version of VTK
+
+# readme
 
 ParaView, ParaView is an open-source, multi-platform application designed to visualize data sets
 http://www.paraview.org/
